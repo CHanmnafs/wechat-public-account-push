@@ -5,7 +5,7 @@ export const config = {
     // 公众号appSecret
     appSecret: "bc1e399052c79fe1d7a5948ee82d49f0",
     // 模板消息id
-    templateId: "tIW1pXz4FWH8sPUFVDIzVq8sXR3pbUPRjGNCQQYOiLY",
+    templateId: "-a4bpRFOfQ-YQKMpY8qUanBG07I7x6jqK_27qMRg7nk",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     user: [“Wpqccc”],
      
@@ -21,6 +21,8 @@ export const config = {
     ],
     // 在一起的日子，格式同上
     loveDate: "2022-08-08",
+    }
+
 
 // {{date.DATA}}  
 // 城市：{{city.DATA}}  
