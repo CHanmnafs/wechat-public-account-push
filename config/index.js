@@ -21,7 +21,7 @@ export const config = {
     ],
     // 在一起的日子，格式同上
     loveDate: "2022-08-08",
-    }
+    
 
 
 // {{date.DATA}}  
