@@ -33,9 +33,3 @@ export const config = {
 
 // {{note_en.DATA}}  
 // {{note_ch.DATA}}
-    
-    # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "",
-# 金句英文
-"note_en": ""
-}
